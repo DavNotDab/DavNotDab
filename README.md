@@ -1,5 +1,7 @@
 
-<a href="https://DavNotDab.github.io"><img align="center" width="80%" height="200px" alt="Hello, I'm Dav" src="./assets/banner.gif" /></a>
+<div class="banner" align="center">
+    <a href="https://DavNotDab.github.io"><img width="80%" height="150px" alt="Hello, I'm Dav" src="./assets/banner.gif" /></a>
+</div>
 
 <hr>
 
