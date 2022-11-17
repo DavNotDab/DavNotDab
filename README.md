@@ -1,6 +1,6 @@
 <link href="styles/style.css" rel="stylesheet" type="text/css" />
 
-<div class="banner">
+<div class="banner" align="center">
     <a href="https://DavNotDab.github.io"><img width="80%" alt="Hello, I'm Dav (Not Dab). I program stuff!" src="./assets/banner.gif" /></a>
 </div>
 
