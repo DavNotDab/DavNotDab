@@ -1,6 +1,24 @@
-<link href="styles/style.css" rel="stylesheet" type="text/css" />
+<style>
 
-<div class="banner" align="center">
+.banner {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.stats {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 20px;
+}
+
+</style>
+
+
+
+
+<div class="banner">
     <a href="https://DavNotDab.github.io"><img width="80%" alt="Hello, I'm Dav (Not Dab). I program stuff!" src="./assets/banner.gif" /></a>
 </div>
 
