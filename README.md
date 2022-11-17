@@ -5,6 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavNotDab&layout=compact&theme=nightowl&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/DavNotDab/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DavNotDab&show_icons=true&theme=nightowl&repo=convoychat" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=DavNotDab&show_icons=true&theme=nightowl&repo=convoychat" />
 </a>
 
