@@ -14,7 +14,7 @@
 
     ✅<img height="20" alt="python" src="https://www.armadilloamarillo.com/wp-content/uploads/1200px-Python-logo-notext.svg_.png">
     ✅<img height="20" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048pxUnofficial_JavaScript_logo_2.svg.png">
-    ✅<img height="20" alt="nodejs" src="https://www.pngrepo.com/download/303266/nodejs-icon-logo.png">
+    ✅<img height="20" alt="nodejs" src="./assets/nodejs.png">
     ✅<img height="20" alt="php" src="https://www.armadilloamarillo.com/wp-content/uploads/1200px-Python-logo-notext.svg_.png">
     ✅<img height="20" alt="laravel" src="https://www.armadilloamarillo.com/wp-content/uploads/1200px-Python-logo-notext.svg_.png">
 
