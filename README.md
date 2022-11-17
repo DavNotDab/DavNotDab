@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavNotDab&layout=compact&theme=nightowl)](https://github.com/DavNotDab/github-readme-stats)
 
 <a href="https://github.com/DavNotDab/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavNotDab&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavNotDab&layout=compact&theme=nightowl&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/DavNotDab/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavNotDab&repo=convoychat" />
