@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/DavNotDab/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=DavNotDab&show_icons=true&theme=nightowl&repo=convoychat" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavNotDab&theme=onedark)](https://github.com/DavNotDab/github-profile-trophy)
