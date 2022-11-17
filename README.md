@@ -1,6 +1,6 @@
 
 <div class="banner" align="center">
-    <a href="https://DavNotDab.github.io"><img width="80%" height="150px" alt="Hello, I'm Dav" src="./assets/banner.gif" /></a>
+    <a href="https://DavNotDab.github.io"><img width="80%" height="180px" alt="Hello, I'm Dav" src="./assets/banner.gif" /></a>
 </div>
 
 **About me**
